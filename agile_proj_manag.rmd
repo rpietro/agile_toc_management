@@ -1,0 +1,57 @@
+# From the ground up: A combined Agile-Theory of Constraints framework in enrollment and attrition management for clinical trials
+
+<!---Submit to RPubs--> 
+This Open Design is licensed under a Creative Commons Attribution - Non commercial 3.0 Unported License. see full license at the end of this file. 
+
+# Abstract 
+
+# Introduction 
+Clinical trials constitute the primary contemporary means of evaluating whether our clinical practices are based on evidence. Despite its central role in guiding clinical practice, executing clinical trials is not without challenges. Among them, subject enrollment and attrition arguably constitute the two major operational challenges in successfuly completing a trial. Despite the significant changes in the management literature regarding new, dynamic models to coordinate complex projects such as clinical trials.
+
+*literature review on Agile - conclude saying that the potential benefits of this method for clinical trial enrollment and attrition has not been formally reported in the peer-reviewed literature
+*literature review on Theory of constraints - conclude by saying that the potential benefits of this method for clinical trial enrollment and attrition have not been formally reported in the peer-reviewed literature
+
+The objective of this study is therefore to conduct a mixed methods study to evaluate the impact of a combined Agile-Theory of Constraints methodology in improving clinical research coordinators satisfaction and active participation in measures that will increase enrollment and reduce subject attrition.
+ 
+# Methods 
+## Ethics statement 
+Approved by the local Institutional Review Board
+
+## Study design 
+Mixed methods study involving the analysis of videos of biweekly meetings with Clinical Research Coordinators from x sites, along with validated scales evaluating 
+### Theoretical framework 
+### Study period 
+## Research team and reflexivity 
+### Personal Characteristics 
+### Relationship with participants 
+### Participant selection 
+## Recruitment 
+### Recruitment criteria - inclusion and exclusion 
+### Recruitment process 
+## Interview procedure 
+### Setting/location of interview 
+### Length of interview 
+## Data collection 
+## Data analysis 
+### Method of analysis 
+## Coding 
+## Software 
+## Themes validation
+
+
+*public data
+*simulation 
+*mturk  
+
+# Results 
+*tables 
+*graphics 
+
+# Discussion 
+*blending sit cog map 
+*lit review with bio2rdf and Mendeley using regexp for emails
+*photos, videos, and 3D models 
+
+# Creative Commons License 
+This Open Design is licensed under a Creative Commons Attribution - Non commercial 3.0 Unported License. You are free: to Share — to copy, distribute and transmit the work to Remix — to adapt the work, under the following conditions: Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work). Noncommercial — You may not use this work for commercial purposes. With the understanding that: Waiver — Any of the above conditions can be waived if you get permission from the copyright holder. Public Domain — Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license. Other Rights — In no way are any of the following rights affected by the license: Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations; The author's moral rights; Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights. Notice — For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page. For more details see http://creativecommons.org/licenses/by-nc/3.0/
+
